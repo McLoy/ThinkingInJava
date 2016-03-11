@@ -1,4 +1,4 @@
-package Chapter11_holding;
+package holding;
 
 /**
  * Created by Ostin on 11.11.2015.

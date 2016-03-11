@@ -1,0 +1,2227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10f15080-6793-4571-8f68-4f907f5023da" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/A.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/interfacea/A.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/Adventure/ActionCharacter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/Transmogrify/Actor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/AdapterMethodIdiom.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/AddingGroups.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/Adventure/Adventure.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/AirFilter$Factory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/AirFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Aisle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/Alien.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/AlphabeticSearch.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/coffee/Americano.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Amphibian.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/Frog/Amphibian.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/Animal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/Frog/Animal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/Annoyance.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/AnonymousA$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/AnonymousA.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/AnonymousConstructor$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/AnonymousConstructor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/AnonymousImplementation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Apple.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/Apple.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/ApplesAndOrangesWithGenerics.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/ApplesAndOrangesWithoutGenerics.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/ArrayMaker.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/ArrayOfGeneric.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/ArrayOfGenericReference.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/ArrayOfGenerics.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/ArrayOptions.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/ArraySearching.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/AsListInference.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/AssemblingMultidimensionalArrays.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/AutoboxingArrays.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Automobile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/AvailableCharSets.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/B.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/B.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/filters/BandPass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Base.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/Base.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/BaseballException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/BasicBounds.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/BasicFileOutput.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/BasicGenerator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/Belt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/BerylliumSphere.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/BigEgg2$Yolk.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/BigEgg2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/Blip1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/Blip3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/Blips.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blips.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/Braeburn.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/Chapter9/Music4/Brass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/Chapter9/Music5/Brass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/music/Brass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/Sandwich/Bread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/coffee/Breve.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/BufferToText.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/BufferedInputFile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Building.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/InterfaceCollision/C.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/packageaccess/C.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/InterfaceCollision/C2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CADState.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/CabinAirFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Callbacks.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Callee2$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Callee2$Closure.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Callee2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/Adventure/CanSwim.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/Candy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/coffee/Capuccino.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/pets/Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/ChangeSystemOut.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/ChannelCopy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/Frog/Characteristic.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Checkers$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Checkers.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/CheckersFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/CheckoutStand.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/Sandwich/Cheese.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Chess$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Chess.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/Chess.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/ChessFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/Circle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/ClassAsFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/ClassCasts.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/ClassInInterface$Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/ClassInInterface.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/ClassParameter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/ClassTypeCapture.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/Cleanup.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/CleanupIdiom.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/coffee/Coffee.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/coffee/CoffeeGenerator$CoffeeIterator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/coffee/CoffeeGenerator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/CollectionData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/CollectionSequence$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/CollectionSequence.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Colored.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Colored2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/ColoredDimension.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/ColoredDimension2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/CompType$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/CompTypeComparator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/ComparatorTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/ComparingArrays.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/CompilerIntelligence.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/ReferenceCounting/Composing.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/ConatinerComparation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/ContainerMethodsDifferences.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Contents.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/controller/Controller.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/ConvertTo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/Cookie.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/CopyingArrays.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/CountedObject.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Counter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/CountingGenerator$Boolean.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/CountingGenerator$Byte.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/CountingGenerator$Character.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/CountingGenerator$Double.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/CountingGenerator$Float.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/CountingGenerator$Integer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/CountingGenerator$Long.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/CountingGenerator$Short.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/CountingGenerator$String.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/CountingGenerator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/CovariantArrays.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/CovariantReturn/CovariantReturn.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Creator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/CreatorGeneric.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/CrossContainerIteration.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/Crusty.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Customer$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Customer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/pets/Cymric.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/D.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/HorrorShow/DangerousMonster.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/Data.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/Derived.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Derived1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Derived2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/Frog/Description.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Destination.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Dimension.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/DirFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/DirList3$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/pets/Dog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/DogBoy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/DotNew$Inner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/DotNew.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/DotThis$Inner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/DotThis.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/classprocessor/Downcase.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/interfaceprocessor/Downcase.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/HorrorShow/DragonZilla.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/DynamicFieldsException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/E.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/Echo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Egg2$Yolk.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Egg2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/pets/EgyptianMau.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/Endians.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/EnvironmentVariables.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/EpicBattle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/ErasedTypeEquivalence.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/ErasureAndInheritance.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/controller/Event.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/ExceptionMethods.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/ExceptionSilencer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/ExplicitTypeSpecification.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/ExtraFeatures.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Factories.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/Factories.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/factory/Factory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/FactoryConstraint.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/FactoryI.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/FamilyVsExactType.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/FanBelt$Factory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/toys/FancyToy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/FileLocking.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/FileOutputShortcut.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/FilledListMaker.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/FillingArrays.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/filters/Filter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/Filter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/interfaceprocessor/FilterProcessor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/FiveTuple.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/FixedSizeStack.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Fnorkle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Foo2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/ForEachCollections.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/pets/ForNameCreator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/FormattedMemoryInput.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/Foul.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/FourException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Frob.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/Frog/Frog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Fruit.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/FuelFilter$Factory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/FuelFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/Fuji.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/GZIPcompress.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/Gala.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Game.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/Game.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/GameFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/GameFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Games.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/Games.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/Generated.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/Generator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/GeneratorBelt$Factory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/GeneratorBelt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Generators.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/GeneratorsTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Generic.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/GenericArray.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/GenericArray2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/GenericArrayWithTypeToken.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/GenericBase.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/GenericCast.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/GenericClassReferences.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/GenericHolder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/GenericMethods.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/GenericWithCreate.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/GenericWriting.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/GenericsAndUpcasting.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/GetChannel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/GetData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/PolyConstructors/Glyph.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/CovariantReturn/Grain.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/GrannySmith.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/GreenhouseControls$Bell.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/GreenhouseControls$LightOff.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/GreenhouseControls$LightOn.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/GreenhouseControls$Terminate.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/GreenhouseControls$ThermostatDay.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/GreenhouseControls$WaterOff.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/GreenhouseControls.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/Gum.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/pets/Hamster.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/toys/HasBatteries.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/HasColor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/HasF.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/Heavy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/Adventure/Hero.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/packageaccess/HiddenC.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/HiddenImplementation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/filters/HighPass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/HoldItem.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Holder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Holder1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Holder3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/HorrorShow/HorrorShow.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/House.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/House.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/House.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/InterfaceCollision/I1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/InterfaceCollision/I3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/IceCream.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/Implemenation1Factory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/Implemenation2Factory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/Implementation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Implementation1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/Implementation1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Implementation2$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Implementation2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/Implementation2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/pets/Individual.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/InheritBounds.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/InheritInner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/InheritingExceptions.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/Initable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/Initable3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/InnerA$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/InnerA$C.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/InnerA.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/InnerImplementation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/Inning.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/InputFile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/InstantiateGenericType.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/Chapter9/Music4/Instrument.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/Chapter9/Music5/Instrument.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/music/Instrument.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/music3/Instrument.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/IntBufferDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/InterfaceViolation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/InterfaceVsIterator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/IterableClass$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/IterableClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/IterableFibonacci$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Jonathan.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/LargeMappedFiles.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/coffee/Latte.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/HorrorShow/Lethal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/Sandwich/Lettuce.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/LimitsOfInference.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/LinkedListFeatures.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/LinkedStack$Node.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/LinkedStack.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/ListIteration.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/ListMaker.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/ListOfGenerics.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/pets/LiteralPetCreator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/Frog/LivingCreature.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/LocalInnerClass$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/LocalInnerClass$1LocalCounter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/LocalInnerClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/LockingMappedFiles$LockAndModify.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/LockingMappedFiles.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/LogginException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/LoggingExceptions.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/LoggingExceptions2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/Logon.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Logon.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/LostMessage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/filters/LowPass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/Sandwich/Lunch.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/MNA$A$B.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/MNA$A.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/MakeDirectories.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Manipulator2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/pets/Manx.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/MapOfList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/MappedIO$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/MappedIO$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/MappedIO$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/MappedIO$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/MappedIO$Tester.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/MappedIO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/Sandwich/Meal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/MethodParameter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/MethodSelector.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/CovariantReturn/Mill.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/coffee/Mocha.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/ModifyingArraysAsList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/HorrorShow/Monster.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/Months.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/RTTI/MoreUseful.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/pets/Mouse.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/MultiDeepWrapperArray.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/MultiImplementation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/MultiIterableClass$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/MultiIterableClass$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/MultiIterableClass$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/MultiIterableClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/MultiNestingAccess.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/MultidimensionalPrimitiveArray.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/MultidimentionalObjectArrays.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/MultipleReturns.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/music/Music.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/music3/Music3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/Chapter9/Music4/Music4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/Chapter9/Music5/Music5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/pets/Mutt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/MyException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/MyException2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/MyIncrement.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/NeedsCleanup.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/NeedsCleanup2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/NeverCaught.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/New.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/NonCollectionSequence$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/music/Note.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/Null.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/NullRobot.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/NullRobotProxyHandler$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/NullRobotProxyHandler$NRobot.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/NullRobotProxyHandler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Office.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/OnOffException1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/OnOffSwitch.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/OneException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/Operation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Orange.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/Orange.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/ParameterizedArrayType.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel1$Contents.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel1$Destination.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel10$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel11$ParcelDestination.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel3$Contents.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel3$Destination.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel4$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel4$PContents.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel5$1PDestination.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel7$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel7b$MyContents.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel7b.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel9$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Parcel9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/Part.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Particle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/Chapter9/Music4/Percussion.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/Chapter9/Music5/Percussion.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/music3/Percussion.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/Person$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/Person.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/pets/Person.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/pets/Pet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/pets/PetCount$PetCounter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/PetCount2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/PetCount3$PetCounter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/PetCount4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/pets/PetCreator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/PetMap.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/PetSequence.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/pets/Pets.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/PolyConstructors/PolyConstructors.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/PopFoul.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/Sandwich/PortableLunch.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/Position.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/Powder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/PowerSteeringBelt$Factory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/PowerSteeringBelt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/PreferencesDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/PrimitiveConversionDemonstration.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/Print.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/PrintingContainers.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/PriorityQueueDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/classprocessor/Processor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/interfaceprocessor/Processor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Product$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/pets/Pug.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Quark.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/QueueDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/RagedArray.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/RainedOut.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/RandVals.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/RandomDoubles/RandomDoubles.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/RandomGenerator$Boolean.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/RandomGenerator$Byte.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/RandomGenerator$Character.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/RandomGenerator$Double.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/RandomGenerator$Float.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/RandomGenerator$Integer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/RandomGenerator$Long.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/RandomGenerator$String.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/RandomGenerator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/RandomGeneratorTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/RandomList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/RandomWords/RandomWords.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/RecoverCADState.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/Redirecting.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/ReferenceCounting/ReferenceCounting.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/RegisteredFactories.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/RethrowNew.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/ReturnGenericType.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/Reverse.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/ReversibleArrayList$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/ReversibleArrayList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/Robot.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/pets/Rodent.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/PolyConstructors/RoundGlyph.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/Transmogrify/SadActor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/Sandwich/Sandwich.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/SelectingMethods.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/SerialCtl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Service.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/Service.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/ServiceFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/ServiceFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/SetOfInteger.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/SetOperations.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/Sets.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/Shape.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/Shapes.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/ReferenceCounting/Shared.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Shelf.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/toys/Shoots.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/ShowMethods.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/SimpleCollection.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/SimpleException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/SimpleHolder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/SimpleIteration.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/SimplerPets.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/Slush.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/Sneeze.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/Snow.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/SnowRemovalRobot$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/SnowRemovalRobot$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/SnowRemovalRobot.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Solid.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Solid2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/SomeMethods.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/SomeOtherException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/SortedSetOfInteger.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/classprocessor/Splitter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/interfaceprocessor/Splitter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/Square.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/Square.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/Stack.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/StackCollision.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/StackTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/Staff.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/Transmogrify/Stage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/holding/Statistics.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/StoreCADState.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/StoringAndRecoveringData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/Storm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/StormException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/StormyInning.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/Strike.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/interfaceprocessor/StringProcessor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/StringSorting.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/Chapter9/Music4/Stringed.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/Chapter9/Music5/Stringed.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/music/Stringed.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/music3/Stringed.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/SuperHearSmell.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/SuperSleuth.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/SuperSmell.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/SuperTypeWildcards.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/SweetShop.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/Switch.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Teller$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Teller.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/TestArrayGeneration.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/TestBed$Tester.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/TestBed.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/TestEOF.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/arrays/TestGenerated.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/TextFile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/xfiles/ThawAlien.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/ThreeException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/ThreeTuple.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/toys/Toy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/toys/ToyTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/Transmogrify/Transmogrify.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/Triangle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/Tuple.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/TupleTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/TupleTest2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/TurnOffChecking.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/TwoException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/TwoTuple.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/net/mindview/util/TypeCounter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/UnboundedWildcards2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/UseList2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/RTTI/Useful.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/UsingBuffers.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/UsingRandomAccessFile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/HorrorShow/Vampire.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Vehicle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/interfaces/HorrorShow/VeryBadVampire.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/VeryImportantException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/ViewBuffers.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/WatercolorSets.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/watercolors/Watercolors.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/toys/Waterproof.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Weight.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/CovariantReturn/Wheat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/CovariantReturn/WheatMill.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/WhoCalled.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Widget$Factory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Widget.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/Wildcards.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/Chapter9/Music5/Wind.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/music/Wind.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/music3/Wind.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/WithFinally.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/WithInner$Inner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/WithInner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/WithPrivateFinalField.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/polymorphism/music3/WoodWind.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/Chapter9/Music5/Woodwind.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/Worm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/exceptions/WrapCheckedException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/X.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/X.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/X.file" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/generics/XRayVision.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Y$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Y.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Z$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/Z.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/io/ZipCompress.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/worm.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/AdapterMethodIdiom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/AddingGroups.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/Alien.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/AlwaysFinally.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/coffee/Americano.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/AnonymousImplementation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/ApplesAndOrangesWithoutGenerics.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/ArrayMaker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/ArrayOfGeneric.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/ArrayOfGenerics.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/ArrayOptions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/ArraySearching.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/AssemblingMultidimensionalArrays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/AutoboxingArrays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/AvailableCharSets.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/BasicFileOutput.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/BasicGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/BasicGeneratorDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/Blip3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/coffee/Breve.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/BufferToText.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/BufferedInputFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/coffee/Capuccino.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/ChangeSystemOut.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/ChannelCopy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/ClassCasts.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/ClassInitialization.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/ClassTypeCapture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/Cleanup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/CleanupIdiom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/coffee/CoffeeGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/CollectionData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/CollectionSequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/CompType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/ComparatorTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/ComparingArrays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/CompilerIntelligence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/ConatinerComparation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/ContainerMethodsDifferences.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/ConvertTo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/CopyingArrays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/CountedObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/CountingGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/CovariantArrays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/CreatorGeneric.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/CrossContainerIteration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/pets/Cymric.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/DirList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/DirList2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/pets/Dog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/DynamicFields.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/Echo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/pets/EgyptianMau.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/Endians.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/EnvironmentVariables.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/EpicBattle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/ErasedTypeEquivalence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/ErasureAndInheritance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/ExceptionMethods.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/ExceptionSilencer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/ExplicitTypeSpecification.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/ExtraFeatures.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/factory/Factory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/FactoryConstraint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/FamilyVsExactType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/Fibonacci.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/FileLocking.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/FileOutputShortcut.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/FilledListMaker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/FillingArrays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/FinallyWorks.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/FiveTuple.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/ForEachCollections.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/pets/ForNameCreator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/FormattedMemoryInput.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/FourTuple.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/FreezeAlien.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/FullConstructors.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/GZIPcompress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/Generator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/Generators.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/GeneratorsTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/GenericArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/GenericCast.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/GenericClassReferences.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/GenericHolder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/GenericWriting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/GenericsAndCovariance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/GetChannel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/GetData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/pets/Hamster.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/packageaccess/HiddenC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/HiddenImplementation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/Holder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/Holder1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/Holder2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/Holder3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/Human.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/IceCream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/pets/Individual.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/InheritBounds.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/InheritingExceptions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/InnerImplementation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/InputFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/InstantiateGenericType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/InterfaceViolation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/InterfaceVsIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/IterableFibonacci.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/LargeMappedFiles.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/coffee/Latte.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/LimitsOfInference.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/LinkedListFeatures.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/ListIteration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/ListMaker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/ListOfGenerics.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/pets/LiteralPetCreator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/LockingMappedFiles.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/LoggingExceptions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/Logon.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/LostInformation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/MakeDirectories.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/Manipulator2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/pets/Manx.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/MapOfList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/MappedIO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/MemoryInput.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/coffee/Mocha.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/pets/Mouse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/MultidimensionalPrimitiveArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/MultidimentionalObjectArrays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/MultipleReturns.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/pets/Mutt.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/MyWorld.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/NeverCaught.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/New.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/NonCollectionSequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/NullRobot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/OnOffException1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/OnOffSwitch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/Operation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Ostin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/ParameterizedArrayType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/pets/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/pets/Pet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/PetCount2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/PetCount4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/pets/PetCreator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/PetMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/pets/Pets.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/PreferencesDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/Print.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/PriorityQueueDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/pets/Pug.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/QueueDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/RagedArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/RandomGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/RandomGeneratorTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/pets/Rat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/RecoverCADState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/Redirecting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/RegisteredFactories.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/RethrowNew.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/Rethrowing.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/ReturnGenericType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/Reverse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/Robot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/SelectingMethods.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/SerialCtl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/SetOfInteger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/SetOperations.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/Sets.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/Shapes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/ShowMethods.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/SimpleDynamicProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/SimpleHolder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/SimpleIteration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/SimplerPets.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/SnowRemovalRobot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/SortedSetOfInteger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/Stack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/StackCollision.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/StackTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/holding/Statistics.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/StoreCADState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/StormyInning.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/StringSorting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/SuperTypeWildcards.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/Switch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/TestArrayGeneration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/TestGenerated.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/TextFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arrays/ThreeDWithNew.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/ThreeTuple.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typeinfo/toys/ToyTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/Tuple.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/TupleList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/TupleTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/TupleTest2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/TurnOffChecking.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/TwoTuple.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/TypeCounter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/UnboundedWildCards1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/UnboundedWildcards2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/UsingBuffers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/UsingRandomAccessFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/ViewBuffers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/WhoCalled.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/Wildcards.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/WithFinally.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Worm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/ZipCompress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="C:\Java\8Chapter_1\src\Chapter11_holding\AddingGroups.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Java\8Chapter_1\src\Chapter11_holding\ApplesAndOrangesWithGenerics.java" afterPath="" />
+      <change type="MOVED" beforePath="C:\Java\8Chapter_1\src\Chapter11_holding\GenericsAndUpcasting.java" afterPath="$PROJECT_DIR$/src/holding/GenericsAndUpcasting.java" />
+      <change type="MOVED" beforePath="C:\Java\8Chapter_1\src\Chapter11_holding\SimpleCollection.java" afterPath="$PROJECT_DIR$/src/holding/SimpleCollection.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/FanBelt.class" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/FanBelt.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/MNA.class" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/innerclasses/MNA.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/OilFilter.class" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/OilFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/pets/PetCount.class" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/pets/PetCount.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/PetCount3.class" afterPath="$PROJECT_DIR$/out/production/8Chapter_1/typeinfo/PetCount3.class" />
+    </list>
+    <ignored path="8Chapter_1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="8Chapter_1" />
+    <favorites_list name="CodeIris Favorites" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Store.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/generics/Store.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="1606">
+              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlphabeticSearch.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/arrays/AlphabeticSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.44394618" vertical-offset="0" max-vertical-offset="892">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="McLoy" />
+      </list>
+    </option>
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/arrays/Reverse.java" />
+        <option value="$PROJECT_DIR$/src/arrays/ComparatorTest.java" />
+        <option value="$PROJECT_DIR$/src/arrays/StringSorting.java" />
+        <option value="$PROJECT_DIR$/src/arrays/ArraySearching.java" />
+        <option value="$PROJECT_DIR$/src/io/DirList.java" />
+        <option value="$PROJECT_DIR$/src/io/DirList2.java" />
+        <option value="$PROJECT_DIR$/src/io/DirList3.java" />
+        <option value="$PROJECT_DIR$/src/io/MakeDirectories.java" />
+        <option value="$PROJECT_DIR$/src/io/BufferedInputFile.java" />
+        <option value="$PROJECT_DIR$/src/io/MemeoryInput.java" />
+        <option value="$PROJECT_DIR$/src/io/MemoryInput.java" />
+        <option value="$PROJECT_DIR$/src/io/FormattedMemoryInput.java" />
+        <option value="$PROJECT_DIR$/src/io/TestEOF.java" />
+        <option value="$PROJECT_DIR$/src/io/BasicFileOutput.java" />
+        <option value="$PROJECT_DIR$/src/io/FileOutputShortcut.java" />
+        <option value="$PROJECT_DIR$/src/io/StoringAndRecoveringData.java" />
+        <option value="$PROJECT_DIR$/src/io/UsingRandomAccessFile.java" />
+        <option value="$PROJECT_DIR$/src/net/mindview/util/TextFile.java" />
+        <option value="$PROJECT_DIR$/src/io/Echo.java" />
+        <option value="$PROJECT_DIR$/src/io/ChangeSystemOut.java" />
+        <option value="$PROJECT_DIR$/src/io/Redirecting.java" />
+        <option value="$PROJECT_DIR$/src/io/GetChannel.java" />
+        <option value="$PROJECT_DIR$/src/io/ChannelCopy.java" />
+        <option value="$PROJECT_DIR$/src/io/TransferTo.java" />
+        <option value="$PROJECT_DIR$/src/io/BufferToText.java" />
+        <option value="$PROJECT_DIR$/src/io/AvailableCharSets.java" />
+        <option value="$PROJECT_DIR$/src/io/GetData.java" />
+        <option value="$PROJECT_DIR$/src/io/IntBufferDemo.java" />
+        <option value="$PROJECT_DIR$/src/io/ViewBuffers.java" />
+        <option value="$PROJECT_DIR$/src/io/Endians.java" />
+        <option value="$PROJECT_DIR$/src/io/UsingBuffers.java" />
+        <option value="$PROJECT_DIR$/src/io/LargeMappedFiles.java" />
+        <option value="$PROJECT_DIR$/src/io/MappedIO.java" />
+        <option value="$PROJECT_DIR$/src/io/FileLocking.java" />
+        <option value="$PROJECT_DIR$/src/io/LockingMappedFiles.java" />
+        <option value="$PROJECT_DIR$/src/io/GZIPcompress.java" />
+        <option value="$PROJECT_DIR$/src/io/ZipCompress.java" />
+        <option value="$PROJECT_DIR$/src/Worm.java" />
+        <option value="$PROJECT_DIR$/src/io/Alien.java" />
+        <option value="$PROJECT_DIR$/src/io/FreezeAlien.java" />
+        <option value="$PROJECT_DIR$/src/io/xfiles/ThawAlien.java" />
+        <option value="$PROJECT_DIR$/src/io/Blips.java" />
+        <option value="$PROJECT_DIR$/src/io/Blip3.java" />
+        <option value="$PROJECT_DIR$/src/io/Logon.java" />
+        <option value="$PROJECT_DIR$/src/io/SerialCtl.java" />
+        <option value="$PROJECT_DIR$/src/io/MyWorld.java" />
+        <option value="$PROJECT_DIR$/src/io/StoreCADState.java" />
+        <option value="$PROJECT_DIR$/src/io/RecoverCADState.java" />
+        <option value="$PROJECT_DIR$/src/io/PreferencesDemo.java" />
+        <option value="$PROJECT_DIR$/src/arrays/AlphabeticSearch.java" />
+        <option value="$PROJECT_DIR$/src/generics/Store.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="8Chapter_1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="8Chapter_1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="8Chapter_1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="8Chapter_1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="8Chapter_1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="8Chapter_1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="8Chapter_1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arrays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Ostin/Downloads/MyIdeaProjects/Thinking-in-Java/8Chapter_1/src/generics/TupleList.java" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.10266942" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="221" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="254" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="254" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1161" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="233" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="250" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="250" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1157" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ostin\Downloads\MyIdeaProjects\8Chapter_1\src\polymorphism\music3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Store">
+    <configuration default="false" name="MyWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="io.MyWorld" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="8Chapter_1" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="StoreCADState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="io.StoreCADState" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="8Chapter_1" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="RecoverCADState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="io.RecoverCADState" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="8Chapter_1" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PreferencesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="io.PreferencesDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="8Chapter_1" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Store" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="generics.Store" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="8Chapter_1" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.MyWorld" />
+      <item index="1" class="java.lang.String" itemvalue="Application.StoreCADState" />
+      <item index="2" class="java.lang.String" itemvalue="Application.RecoverCADState" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PreferencesDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Store" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Store" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PreferencesDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RecoverCADState" />
+        <item index="3" class="java.lang.String" itemvalue="Application.StoreCADState" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MyWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10f15080-6793-4571-8f68-4f907f5023da" name="Default" comment="" />
+      <created>1440018675075</created>
+      <option name="number" value="Default" />
+      <updated>1440018675075</updated>
+      <workItem from="1440018676937" duration="1945000" />
+      <workItem from="1440022386619" duration="913000" />
+      <workItem from="1440257108088" duration="4835000" />
+      <workItem from="1440273010659" duration="637000" />
+      <workItem from="1443036879047" duration="2072000" />
+      <workItem from="1443083036238" duration="1934000" />
+      <workItem from="1443094458950" duration="5785000" />
+      <workItem from="1443107876340" duration="2859000" />
+      <workItem from="1443163806140" duration="4679000" />
+      <workItem from="1443340860904" duration="1454000" />
+      <workItem from="1443597850414" duration="2756000" />
+      <workItem from="1443680108330" duration="657000" />
+      <workItem from="1443703782647" duration="188000" />
+      <workItem from="1443704220771" duration="2859000" />
+      <workItem from="1443776866436" duration="7519000" />
+      <workItem from="1443816542395" duration="792000" />
+      <workItem from="1443817642836" duration="1749000" />
+      <workItem from="1443866571729" duration="4730000" />
+      <workItem from="1443897051410" duration="551000" />
+      <workItem from="1444227401536" duration="1446000" />
+      <workItem from="1444308916151" duration="1646000" />
+      <workItem from="1444323372242" duration="1217000" />
+      <workItem from="1444375031726" duration="5943000" />
+      <workItem from="1444393733536" duration="658000" />
+      <workItem from="1444671495182" duration="1785000" />
+      <workItem from="1444720932955" duration="1135000" />
+      <workItem from="1444729518774" duration="953000" />
+      <workItem from="1444767326630" duration="3263000" />
+      <workItem from="1444809370299" duration="663000" />
+      <workItem from="1444891440287" duration="1751000" />
+      <workItem from="1444977872743" duration="827000" />
+      <workItem from="1445465018770" duration="11000" />
+      <workItem from="1445532292363" duration="1092000" />
+      <workItem from="1445566489599" duration="3868000" />
+      <workItem from="1445590559451" duration="6289000" />
+      <workItem from="1445603817015" duration="3917000" />
+      <workItem from="1445717333313" duration="619000" />
+      <workItem from="1445872223160" duration="124000" />
+      <workItem from="1445872377061" duration="1239000" />
+      <workItem from="1445952453171" duration="40000" />
+      <workItem from="1445961377720" duration="21000" />
+      <workItem from="1446037207598" duration="35000" />
+      <workItem from="1446037641914" duration="60000" />
+      <workItem from="1446037732909" duration="16000" />
+      <workItem from="1446038209160" duration="41000" />
+      <workItem from="1446038775970" duration="21000" />
+      <workItem from="1446039141688" duration="21000" />
+      <workItem from="1446039459419" duration="26000" />
+      <workItem from="1446039918438" duration="21000" />
+      <workItem from="1446040224538" duration="24000" />
+      <workItem from="1446040526866" duration="21000" />
+      <workItem from="1446040841771" duration="16000" />
+      <workItem from="1446041112572" duration="24000" />
+      <workItem from="1446041464829" duration="19000" />
+      <workItem from="1446041736039" duration="31000" />
+      <workItem from="1446041831717" duration="7000" />
+      <workItem from="1446543446147" duration="2734000" />
+      <workItem from="1446565223193" duration="1113000" />
+      <workItem from="1446622735690" duration="1314000" />
+      <workItem from="1446908651531" duration="267000" />
+      <workItem from="1446909014623" duration="702000" />
+      <workItem from="1447016057090" duration="23000" />
+      <workItem from="1447170423398" duration="591000" />
+      <workItem from="1447202093581" duration="3809000" />
+      <workItem from="1447207049587" duration="208000" />
+      <workItem from="1447207408777" duration="1717000" />
+      <workItem from="1447282635984" duration="3825000" />
+      <workItem from="1447309907024" duration="1042000" />
+      <workItem from="1447354973056" duration="5366000" />
+      <workItem from="1447490627036" duration="2501000" />
+      <workItem from="1447499543768" duration="7155000" />
+      <workItem from="1447516386750" duration="7079000" />
+      <workItem from="1447574181764" duration="1331000" />
+      <workItem from="1447606260480" duration="4822000" />
+      <workItem from="1447616621838" duration="826000" />
+      <workItem from="1447621093415" duration="5751000" />
+      <workItem from="1447659807100" duration="2878000" />
+      <workItem from="1447691975590" duration="648000" />
+      <workItem from="1447696871075" duration="381000" />
+      <workItem from="1447697306585" duration="22000" />
+      <workItem from="1447703555947" duration="1625000" />
+      <workItem from="1447706994176" duration="3327000" />
+      <workItem from="1447713431928" duration="1139000" />
+      <workItem from="1447795739350" duration="947000" />
+      <workItem from="1447857951233" duration="4049000" />
+      <workItem from="1447879796984" duration="2082000" />
+      <workItem from="1447917703768" duration="8853000" />
+      <workItem from="1447941156594" duration="5824000" />
+      <workItem from="1447952871209" duration="696000" />
+      <workItem from="1448014738435" duration="2285000" />
+      <workItem from="1448021718220" duration="306000" />
+      <workItem from="1448028470784" duration="2173000" />
+      <workItem from="1448032891328" duration="758000" />
+      <workItem from="1448032051640" duration="613000" />
+      <workItem from="1448040528368" duration="7443000" />
+      <workItem from="1448092110176" duration="6863000" />
+      <workItem from="1448099392777" duration="16148000" />
+      <workItem from="1448129212218" duration="2109000" />
+      <workItem from="1448143626592" duration="907000" />
+      <workItem from="1448177975113" duration="26111000" />
+      <workItem from="1448214900761" duration="8229000" />
+      <workItem from="1448287886828" duration="24000" />
+      <workItem from="1448355749873" duration="681000" />
+      <workItem from="1448440219239" duration="768000" />
+      <workItem from="1457704404877" duration="1426000" />
+      <workItem from="1457705890033" duration="116000" />
+      <workItem from="1457706026203" duration="926000" />
+      <workItem from="1457706971325" duration="24000" />
+      <workItem from="1457707089673" duration="106000" />
+    </task>
+    <task id="LOCAL-00001" summary="test changes">
+      <created>1447208818256</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1447208818256</updated>
+    </task>
+    <task id="LOCAL-00002" summary="uploading my samples">
+      <created>1457706206543</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1457706206543</updated>
+    </task>
+    <task id="LOCAL-00003" summary="uploading my samples">
+      <created>1457706630404</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1457706630404</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="250467000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38702703" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756758" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16770834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Code Iris" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3984252" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29081082" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14810811" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="test changes" />
+    <MESSAGE value="last changes" />
+    <MESSAGE value="uploading my samples" />
+    <option name="LAST_COMMIT_MESSAGE" value="uploading my samples" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/PreferencesDemo.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="41" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/io/DirList2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="595">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/DirList3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="58" max-vertical-offset="544">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/MakeDirectories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="891" max-vertical-offset="1292">
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/BufferedInputFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="109" max-vertical-offset="510">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/MemoryInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/FormattedMemoryInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/TestEOF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/BasicFileOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/FileOutputShortcut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/StoringAndRecoveringData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="561">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/UsingRandomAccessFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="612">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/TextFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1101" max-vertical-offset="1530">
+          <caret line="84" column="1" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/Echo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/ChangeSystemOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/Redirecting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="544">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/GetChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/ChannelCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="98" max-vertical-offset="544">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/TransferTo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/BufferToText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="969">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/AvailableCharSets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="149" max-vertical-offset="578">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/GetData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="523" max-vertical-offset="884">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/IntBufferDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="64" max-vertical-offset="493">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/ViewBuffers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1003">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/Endians.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="47" max-vertical-offset="476">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/UsingBuffers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="149" max-vertical-offset="578">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/LargeMappedFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="459">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/MappedIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1220" max-vertical-offset="1853">
+          <caret line="99" column="44" selection-start-line="99" selection-start-column="44" selection-end-line="99" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/FileLocking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="442">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/LockingMappedFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="146" max-vertical-offset="901">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/GZIPcompress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="353" max-vertical-offset="714">
+          <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/ZipCompress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="710" max-vertical-offset="1139">
+          <caret line="52" column="45" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Worm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="792" max-vertical-offset="1241">
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/Alien.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/FreezeAlien.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/xfiles/ThawAlien.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/Blips.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="591" max-vertical-offset="1020">
+          <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/Blip3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="557" max-vertical-offset="986">
+          <caret line="47" column="50" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/Logon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="81" max-vertical-offset="714">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/SerialCtl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="302" max-vertical-offset="731">
+          <caret line="33" column="61" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/MyWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="574" max-vertical-offset="1003">
+          <caret line="46" column="50" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/StoreCADState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1220" max-vertical-offset="1649">
+          <caret line="82" column="25" selection-start-line="82" selection-start-column="25" selection-end-line="82" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/RecoverCADState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/PreferencesDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="48598">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/generics.Store">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>generics.Store</OriginalElement>
+          <nodes>
+            <node x="423.25" y="252.0">java.util.RandomAccess</node>
+            <node x="304.25" y="252.0">java.lang.Cloneable</node>
+            <node x="79.25" y="168.0">java.util.AbstractCollection</node>
+            <node x="253.25" y="168.0">java.util.List</node>
+            <node x="260.25" y="420.0">generics.Store</node>
+            <node x="172.72727272727275" y="84.0">java.util.Collection</node>
+            <node x="129.0" y="252.0">java.util.AbstractList</node>
+            <node x="180.72727272727275" y="0.0">java.lang.Iterable</node>
+            <node x="249.25" y="336.0">java.util.ArrayList</node>
+            <node x="0.0" y="252.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.ArrayList" target="java.lang.Cloneable">
+              <point x="17.80000000000001" y="-17.0" />
+              <point x="311.55" y="306.0" />
+              <point x="353.75" y="306.0" />
+              <point x="0.0" y="17.0" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.RandomAccess">
+              <point x="35.60000000000002" y="-17.0" />
+              <point x="329.35" y="316.0" />
+              <point x="489.25" y="316.0" />
+              <point x="0.0" y="17.0" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.io.Serializable">
+              <point x="-35.60000000000002" y="-17.0" />
+              <point x="258.15" y="316.0" />
+              <point x="54.5" y="316.0" />
+              <point x="0.0" y="17.0" />
+            </edge>
+            <edge source="java.util.List" target="java.util.Collection">
+              <point x="0.0" y="-17.0" />
+              <point x="280.25" y="143.0" />
+              <point x="246.97727272727275" y="143.0" />
+              <point x="24.75" y="17.0" />
+            </edge>
+            <edge source="java.util.AbstractList" target="java.util.List">
+              <point x="27.25" y="-17.0" />
+              <point x="210.75" y="227.0" />
+              <point x="266.75" y="227.0" />
+              <point x="-13.5" y="17.0" />
+            </edge>
+            <edge source="generics.Store" target="java.util.ArrayList">
+              <point x="0.0" y="-17.0" />
+              <point x="0.0" y="17.0" />
+            </edge>
+            <edge source="java.util.Collection" target="java.lang.Iterable">
+              <point x="0.0" y="-17.0" />
+              <point x="0.0" y="17.0" />
+            </edge>
+            <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
+              <point x="-27.25" y="-17.0" />
+              <point x="0.0" y="17.0" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.List">
+              <point x="0.0" y="-17.0" />
+              <point x="13.5" y="17.0" />
+            </edge>
+            <edge source="java.util.AbstractCollection" target="java.util.Collection">
+              <point x="0.0" y="-17.0" />
+              <point x="156.25" y="143.0" />
+              <point x="197.47727272727275" y="143.0" />
+              <point x="-24.75" y="17.0" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.AbstractList">
+              <point x="-17.80000000000001" y="-17.0" />
+              <point x="275.95" y="306.0" />
+              <point x="183.5" y="306.0" />
+              <point x="0.0" y="17.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-281.0" y="214.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/Ostin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="587">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/scopes/scope_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.116556294" vertical-offset="0" max-vertical-offset="755">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generics/ArrayMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23311259" vertical-offset="0" max-vertical-offset="755">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generics/ArrayOfGeneric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14569536" vertical-offset="0" max-vertical-offset="755">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generics/Store.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="1606">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/AlphabeticSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44394618" vertical-offset="0" max-vertical-offset="892">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.10266942" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.10266942" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.10266942" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.10266942" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>8Chapter_1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.10266942" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.10266942" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
